@@ -1,1 +1,1 @@
-This is my readme file which I edited via GitHub.
+This is my readme file.
