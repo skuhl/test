@@ -1,6 +1,6 @@
 int main()
 {
 	printf("goodbye world\n");
-	return 0;
+	return 99;
 }
         
